@@ -1,0 +1,45 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Dependency directory
+/.pnp/
+/.pnp.js
+
+# Testing
+/coverage/
+
+# IDE/Editor folders and files
+/.idea/
+/.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output (if you're using Next.js)
+.next/
+
+# Jest cache
+/jest/
+
+# Parcel cache (if you're using Parcel)
+.cache/
+
+# TypeScript
+*.tsbuildinfo
